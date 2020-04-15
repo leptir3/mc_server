@@ -1,0 +1,42 @@
+[18:46:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:46:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:46:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:46:26] [Server thread/INFO]: Loading properties
+[18:46:26] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:26] [Server thread/INFO]: Generating keypair
+[18:46:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:26] [Server thread/INFO]: Using default channel type
+[18:46:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:46:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:46:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:46:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:46:28] [Server thread/INFO]: Preparing level "world"
+[18:46:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:46:29] [Server thread/INFO]: Loaded 6 recipes
+[18:46:30] [Server thread/INFO]: Loaded 825 advancements
+[18:46:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:46:36] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:36] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:36] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:36] [Server thread/INFO]: Preparing spawn area: 75%
+[18:46:39] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:46:39] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:46:39] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:46:39] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:46:39] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:46:39] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:46:40] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[18:46:40] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[18:46:41] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:46:41] [Server thread/INFO]: Preparing spawn area: 83%
+[18:46:42] [Server-Worker-6/INFO]: Preparing spawn area: 88%
+[18:46:42] [Server-Worker-6/INFO]: Preparing spawn area: 94%
+[18:46:43] [Server thread/INFO]: Time elapsed: 7874 ms
+[18:46:43] [Server thread/INFO]: Done (14.371s)! For help, type "help"
+[18:46:48] [Server thread/INFO]: leptir3[/0:0:0:0:0:0:0:1:49954] logged in with entity id 15 at (29.5, 65.0, -49.5)
+[18:46:48] [Server thread/INFO]: leptir3 joined the game
+[18:47:04] [Server thread/INFO]: leptir3 lost connection: Timed out
+[18:47:04] [Server thread/INFO]: leptir3 left the game
